@@ -4,7 +4,7 @@
   <br>Estou atualmente estudando Sistemas de Informação e me aprofundando em desenvolvimento web full stack (html, css, javascript) e em python.
   <br> Busco constantemente aprimorar minhas habilidades e desenvolver projetos práticos para consolidar meu aprendizado. Meu objetivo é me tornar um desenvolvedor full stack e contribuir para a comunidade tech.</h3>
 
- <img align="right" height="400px" width="400px" src="https://media1.tenor.com/m/pjNvammO-LQAAAAd/frieren-anime-frieren-elf.gif"/>
+ <img align="right" height="350px" width="350px" src="https://media1.tenor.com/m/pjNvammO-LQAAAAd/frieren-anime-frieren-elf.gif"/>
 
 <br> ![DevGDamasceno's Stats](https://github-readme-stats.vercel.app/api?username=DevGDamasceno&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 <br> ![DevGDamasceno's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGDamasceno&theme=algolia&show_icons=true&hide_border=true&layout=compact)
