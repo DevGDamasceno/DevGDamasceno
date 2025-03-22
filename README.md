@@ -1,16 +1,23 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Full+Stack)](https://git.io/typing-svg)
 
-<!--
-**DevGDamasceno/DevGDamasceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>Olá! Me chamo Gabriel Damasceno e sou um programador iniciante apaixonado por tecnologia e desenvolvimento de software. 
+  <br>Estou atualmente estudando Sistemas de Informação e me aprofundando em desenvolvimento web full stack (html, css, javascript) e em python.
+  <br> Busco constantemente aprimorar minhas habilidades e desenvolver projetos práticos para consolidar meu aprendizado. Meu objetivo é me tornar um desenvolvedor full stack e contribuir para a comunidade tech.</h3>
 
-Here are some ideas to get you started:
+ <img align="right" height="400px" width="400px" src="https://media1.tenor.com/m/pjNvammO-LQAAAAd/frieren-anime-frieren-elf.gif"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br> ![DevGDamasceno's Stats](https://github-readme-stats.vercel.app/api?username=DevGDamasceno&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+<br> ![DevGDamasceno's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGDamasceno&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+
+
+ <br> [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0E151D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-damasceno-814311243/)
+
+<br>
+
+<h1>Tecnologias </h1>
+
+<div> <img src="https://img.shields.io/badge/HTML-0E151D?style=for-the-badge&logo=html5&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/CSS-0E151D?&style=for-the-badge&logo=css3&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/JavaScript-0E151D?style=for-the-badge&logo=javascript&logoColor=white"/> <br>
+      <img src="https://img.shields.io/badge/React-0E151D?style=for-the-badge&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/python-0E151D?style=for-the-badge&logo=python&logoColor=white"/> </div>
