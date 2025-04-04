@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Full+Stack)](https://git.io/typing-svg)
 
 <h4>Olá! Me chamo Gabriel Damasceno e sou um programador iniciante apaixonado por tecnologia e desenvolvimento de software. 
-  <br>Estou atualmente estudando Sistemas de Informação e me aprofundando em desenvolvimento web full stack (html, css, javascript) e em python.
+  <br>Estou atualmente estudando Sistemas de Informação e me aprofundando em desenvolvimento web full stack (html, css, javascript) e em java.
   <br> Busco constantemente aprimorar minhas habilidades e desenvolver projetos práticos para consolidar meu aprendizado. Meu objetivo é me tornar um desenvolvedor full stack e contribuir para a comunidade tech.</h3>
 
  <img align="right" height="350px" width="350px" src="https://media1.tenor.com/m/pjNvammO-LQAAAAd/frieren-anime-frieren-elf.gif"/>
