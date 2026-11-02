@@ -6,8 +6,8 @@
 
  <img align="right" height="350px" width="350px" src="https://media1.tenor.com/m/pjNvammO-LQAAAAd/frieren-anime-frieren-elf.gif"/>
 
-<br> ![DevGDamasceno's Stats](https://github-stats-extended.vercel.app/api?username=DevGDamasceno&theme=algolia&show_icons=true&hide_border=true&count_private=true)
-<br> ![DevGDamasceno's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DevGDamasceno&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+<br> ![DevGDamasceno's Stats](https://github-stats-extended.vercel.app/api?username=DevGDamasceno&theme=algolia&show_icons=true&hide_border=true&count_private=true&v=2)
+<br> ![DevGDamasceno's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DevGDamasceno&theme=algolia&show_icons=true&hide_border=true&layout=compact&v=2)
 
 
  <br> [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0E151D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-damasceno-814311243/)
